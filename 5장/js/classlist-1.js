@@ -14,6 +14,3 @@ title.onclick = () => title.innerText="프로필";
 userName.onclick = () => userName.innerHTML = "이름 : <b>엄지민</b>"
 //이미지 영역을 클릭하면 이미지를 바꾼다.(이미지의 파일(경로를포함하여)을 바꾼다.)
 pfImg.onclick = () => pfImg.src ="imges/pf2.png";   
-
-
-
